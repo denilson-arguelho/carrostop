@@ -1,0 +1,16 @@
+
+.card button {
+  width: 75%;
+  height: 40px;
+  background-color: var(--ct-color-font-tertiary);
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 38px;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}
+

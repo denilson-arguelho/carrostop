@@ -1,6 +1,6 @@
 /* HEADER */
 .ct-nav-container {
-  background-color: var(--header-bg-color);
+  background-color: var(--ct-color-bg-secondary);
   height: 70px;
   display: flex;
   justify-content: left;
@@ -10,7 +10,7 @@
 .ct-nav-container-title > h1 {
   font-size: 24px;
   margin-left: 20px;
-  color: var(--font-primary);
+  color: var(--ct-color-font-tertiary);
 }
 
 .ct-nav-container-title {

@@ -11,7 +11,7 @@
   width: 100%;
   padding: 0 15px;
 
-  border: 1px solid #a7a7a7;
+  border: 1px solid var(--ct-color-font-placeholder);
   border-radius: 5px 0px 0px 5px;
   font-size: 18px;
   color: var(--font-secondary);
@@ -22,10 +22,10 @@
 
 .ct-seach::placeholder {
   font-size: 16px;
-  color: #a7a7a7;
+  color:var(--ct-color-font-placeholder);
 }
 .ct-button {
-  background-color: #00285f;
+  background-color:var( --ct-color-bg-tertiary);
   color: #fff;
 
   width: 77px;

@@ -1,5 +1,6 @@
 import './styles.css'
 import carImg from '../../assets/car-card .png'
+import Button from '../Button';
 
 const Card = () => {
   return (
@@ -10,7 +11,7 @@ const Card = () => {
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere maxime
         quis saepe.
       </p>
-      <button>Comprar</button>
+      <Button/>
     </div>
   );
 };
